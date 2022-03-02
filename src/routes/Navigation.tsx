@@ -45,6 +45,6 @@ export const Navigation = () => {
 
               </div>
           </BrowserRouter>
-        </Suspense>
+      </Suspense>
     )
 }
